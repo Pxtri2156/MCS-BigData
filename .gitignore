@@ -4,5 +4,8 @@
 /workspace/tripx/MCS/big_data/spark-3.1.1-bin-hadoop3.2 
 /workspace/tripx/MCS/big_data/spark-3.1.1-bin-hadoop3.2.tgz
 /workspace/tripx/MCS/big_data/spark-3.1.1-bin-hadoop3.2.tgz.1
+*parquet*
+*parquet
+*.crc
 *.tgz*
 *.csv
